@@ -2,15 +2,6 @@
 	"name": "poptser/baidu-netdisk",
 	"keywords": ["baidu", "netdisk"],
     "description": "xpanapi",
-    "keywords": [
-        "openapitools",
-        "openapi-generator",
-        "openapi",
-        "php",
-        "sdk",
-        "rest",
-        "api"
-    ],
     "homepage": "https://openapi-generator.tech",
     "license": "unlicense",
     "authors": [
